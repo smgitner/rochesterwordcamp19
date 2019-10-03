@@ -1,4 +1,4 @@
-## **Theming with Webflow and Underscores**
+## **WordPress Theming with Webflow and Underscores**
 
   
 
